@@ -1,4 +1,4 @@
-# endless
+# endles可以允许我们在重启网络服务器的时候零时间宕机
 
 Zero downtime restarts for golang HTTP and HTTPS servers. (for golang 1.3+)
 
